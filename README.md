@@ -2,7 +2,7 @@
 
 Experiments conducted as part of Advanced BME Lab (AM5019) during December 2021 & January 2022.
 
-##EXPERIMENT: Assessment of blood flow using Laser Doppler flow meter
+## EXPERIMENT: Assessment of blood flow using Laser Doppler flow meter
 
 OBJECTIVES:
 i. To understand the LDF system and its components.
